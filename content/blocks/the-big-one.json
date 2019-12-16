@@ -2,11 +2,12 @@
 	"name": "The Big One",
 	"description": "The Big ONe",
 	"type": "Vault",
-	"itemCapacity": 1000000000,
+	"itemCapacity": 10000,
 	 "buildTime" : 0.1,
 	"hasItems": true,
 	"health": 100000,
 	"size": 1,
+	"buildcostmultiplier": 10,
 	"requirements": [
 		{ "item": "plastanium", "amount": 2000 },
 	],
