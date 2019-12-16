@@ -1,0 +1,15 @@
+{
+	"name": "The Big One",
+	"description": "The Big ONe",
+	"type": "Vault",
+	"itemCapacity": 1000000000,
+	 entity.buildTime = 0f;
+	"hasItems": true,
+	"health": 100000,
+	"size": 1,
+	"requirements": [
+		{ "item": "plastanium", "amount": 2000 },
+	],
+	"category": "effect",
+	"research": "vault"
+}
