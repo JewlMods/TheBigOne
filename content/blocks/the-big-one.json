@@ -3,7 +3,7 @@
 	"description": "The Big ONe",
 	"type": "Vault",
 	"itemCapacity": 1000000000,
-	 entity.buildTime = 0f;
+	 "buildTime" 0;
 	"hasItems": true,
 	"health": 100000,
 	"size": 1,
