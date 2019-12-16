@@ -3,7 +3,7 @@
 	"description": "The Big ONe",
 	"type": "Vault",
 	"itemCapacity": 1000000000,
-	 "buildTime" 0;
+	 "buildTime" : 0.1,
 	"hasItems": true,
 	"health": 100000,
 	"size": 1,
