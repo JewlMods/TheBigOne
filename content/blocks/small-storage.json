@@ -1,0 +1,16 @@
+{
+	"name": "Small storage",
+	"description": "A small storage unit",
+	"type": "Vault",
+	"itemCapacity": 50,
+	"buildTime" : 10,
+	"hasItems": true,
+	"health": 100,
+	"size": 1,
+	"requirements": [
+		{ "item": "copper", "amount": 100 },
+    { "item": "lead", "amount": 50 },
+	],
+	"category": "effect",
+	"research": "Container"
+}
