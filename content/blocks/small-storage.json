@@ -12,5 +12,5 @@
     { "item": "lead", "amount": 50 },
 	],
 	"category": "effect",
-	"research": "Container"
+	"research": "container"
 }
